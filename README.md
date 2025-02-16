@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Igiraneza Patrick! 👋
 
-<!--
-**Igiraneza18021/Igiraneza18021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building web applications and solving problems with code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔧 **Tech Stack:** JavaScript, TypeScript, Next.js, React, Node.js, Appwrite
+- 💡 **Projects:** Creator of [Pi Stream](https://your-pistream-link.com) (a movie streaming platform) & [Pi eLearning](https://your-pielearning-link.com)
+- 🎥 **Movies & APIs:** Integrating TMDb API for movie data
+- 🏗 **Current Focus:** Enhancing my job-offer website and optimizing Pi Stream
+- 📫 **Let's Connect:** [Your LinkedIn](https://linkedin.com/in/yourprofile) | [Your Twitter](https://twitter.com/yourhandle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 My Projects
+- **🎬 Pi Stream:** A movie streaming website built with Next.js and TMDb API.
+- **📚 Pi eLearning:** An online learning platform to make education accessible.
+- **💼 Job Offer Website:** Helping connect job seekers with employers.
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+
+Thanks for stopping by! 🚀
