@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 - **💼 Job Offer Website:** Helping connect job seekers with employers.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igiraneza18021&show_icons=true&theme=dark)
 
 Thanks for stopping by! 🚀
