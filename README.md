@@ -17,4 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igiraneza18021&show_icons=true&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=Igiraneza18021&abbreviated=true)
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/Igiraneza18021.svg)](https://user-badge.committers.top/rwanda_private/Igiraneza18021)
+
 Thanks for stopping by! 🚀
